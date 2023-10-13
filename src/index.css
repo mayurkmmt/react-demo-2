@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.sidebar{
+    width: 5%;
+}
+
+.mainlayout{
+    width: 95%;
+}

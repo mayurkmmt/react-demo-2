@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Cache files
+.cache/
+*.log
+
+# Editor/IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Package manager lock files
+yarn.lock
+package-lock.json
